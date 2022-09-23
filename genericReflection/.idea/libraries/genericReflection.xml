@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="genericReflection">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/genericReflection_jar/genericReflection.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
